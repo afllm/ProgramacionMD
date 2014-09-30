@@ -26,6 +26,10 @@
             android:name=".ImagenYTextoActivity"
             android:label="@string/title_activity_imagen_ytexto" >
         </activity>
+        <activity
+            android:name=".BotonCentrado"
+            android:label="@string/title_activity_boton_centrado" >
+        </activity>
     </application>
 
 </manifest>

@@ -16,6 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_weight="0"
+        android:contentDescription="@string/title_activity_imagen_ytexto"
         android:src="@drawable/imagendejupiter" />
 
     <EditText
@@ -26,9 +27,7 @@
         android:layout_weight="1"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:scrollbars="vertical" >
-
-        <requestFocus />
-    </EditText>
+        android:scrollbars="vertical"
+        android:text="@string/_lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_curabitur_eu_auctor_est_suspendisse_elementum_mauris_lacus_vestibulum_sollicitudin_metus_a_purus_gravida_lacinia_ut_ac_ipsum_suspendisse_at_tempor_mauris_praesent_vel_ultricies_velit_cras_fermentum_faucibus_placerat_suspendisse_sit_amet_quam_lectus_vivamus_in_orci_leo_morbi_consectetur_sit_amet_velit_id_pretium_nulla_quis_feugiat_turpis_phasellus_laoreet_tempus_arcu_hendrerit_laoreet_donec_efficitur_mauris_a_dui_pulvinar_ut_efficitur_dolor_egestas_nullam_lobortis_orci_et_mauris_porta_ac_varius_risus_euismod_duis_ut_laoreet_libero_suscipit_scelerisque_eros_duis_eget_commodo_odio_in_rhoncus_libero_eget_ex_iaculis_id_congue_eros_feugiat_" />
 
 </LinearLayout>

@@ -6,5 +6,8 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_imagen_ytexto">ImagenYTextoActivity</string>
     <string name="button">Button</string>
+    <string name="_lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_curabitur_eu_auctor_est_suspendisse_elementum_mauris_lacus_vestibulum_sollicitudin_metus_a_purus_gravida_lacinia_ut_ac_ipsum_suspendisse_at_tempor_mauris_praesent_vel_ultricies_velit_cras_fermentum_faucibus_placerat_suspendisse_sit_amet_quam_lectus_vivamus_in_orci_leo_morbi_consectetur_sit_amet_velit_id_pretium_nulla_quis_feugiat_turpis_phasellus_laoreet_tempus_arcu_hendrerit_laoreet_donec_efficitur_mauris_a_dui_pulvinar_ut_efficitur_dolor_egestas_nullam_lobortis_orci_et_mauris_porta_ac_varius_risus_euismod_duis_ut_laoreet_libero_suscipit_scelerisque_eros_duis_eget_commodo_odio_in_rhoncus_libero_eget_ex_iaculis_id_congue_eros_feugiat_">" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu auctor est. Suspendisse elementum mauris lacus. Vestibulum sollicitudin metus a purus gravida lacinia ut ac ipsum. Suspendisse at tempor mauris. Praesent vel ultricies velit. Cras fermentum faucibus placerat. Suspendisse sit amet quam lectus. Vivamus in orci leo. Morbi consectetur sit amet velit id pretium. Nulla quis feugiat turpis. Phasellus laoreet tempus arcu hendrerit laoreet. Donec efficitur mauris a dui pulvinar, ut efficitur dolor egestas. Nullam lobortis orci et mauris porta, ac varius risus euismod. Duis ut laoreet libero, suscipit scelerisque eros. Duis eget commodo odio. In rhoncus libero eget ex iaculis, id congue eros feugiat."</string>
+    <string name="title_activity_boton_centrado">BotonCentrado</string>
+    <string name="_50_">50%</string>
 
 </resources>
